@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.upcoming_section {
+  background-color: hsl(206, 79%, 44%);
+  padding: 50px 0px 25px 0px;
+}
+
+.event_title {
+  font-size: 28px;
+  text-align: center;
+  color: white;
+  margin: 50px 100px 50px 100px;
+}
+
+.events {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.event {
+  width: 570px;
+  margin-left: 100px;
+}
+
+.event_info {
+  margin-left: 70px;
+}
+
+.horaizental {
+  margin-bottom: 50px;
+}
